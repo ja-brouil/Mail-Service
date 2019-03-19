@@ -1,0 +1,6 @@
+com/jb/mailservice/configuration/ServerConfig.class
+com/jb/mailservice/controller/ThymeEmailController.class
+com/jb/mailservice/controller/MainController.class
+com/jb/mailservice/model/EmailEntry.class
+com/jb/mailservice/MailserviceApplication.class
+com/jb/mailservice/repository/EmailRepository.class
